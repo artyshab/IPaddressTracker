@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "New Amsterdam", sans-serif;
+}
+
+body {
+  background-color: #9DB2BF;
+}
+
+button {
+  border: none;
+  font-size: 1.3rem;
+  background-color: white;
+  padding: 10px 25px;
+  border-radius: 15px;
+  outline: none;
+  margin: 0px 10px;
+  cursor: pointer;
+}/*# sourceMappingURL=Buttons.css.map */

@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "New Amsterdam", sans-serif;
+}
+
+body {
+  background-color: #9DB2BF;
+}/*# sourceMappingURL=Global.css.map */

@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "New Amsterdam", sans-serif;
+}
+
+body {
+  background-color: #9DB2BF;
+}
+
+.container {
+  background-color: #27374D;
+}
+.container .address-wrapper {
+  color: white;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 50px 0px;
+}
+.container .address-wrapper h1 {
+  font-weight: 300;
+  font-size: 3.6rem;
+}
+
+@media screen and (max-width: 1024px) {
+  .container {
+    background-color: #27374D;
+  }
+  .container .address-wrapper {
+    color: white;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0px;
+  }
+  .container .address-wrapper h1 {
+    font-weight: 300;
+    font-size: 1.6rem;
+  }
+}/*# sourceMappingURL=IPaddress.css.map */
